@@ -1,118 +1,131 @@
 {
-  profile: {
-    level: 10,
-    perseverance: 0,
-    points: 9
-    stamina: 1,
-    strength: 10,
-    flexiblity: 5,
-    mind: 2
-  }
-
-  categories: [
+  "profile": {
+    "level": 10,
+    "perseverance": 0,
+    "points": 9,
+    "stamina": 1,
+    "strength": 10,
+    "flexiblity": 5,
+    "mind": 2
+  },
+  "categories": [
     {
-      id: 1, name: "Bestcycling"
+      "id": 1,
+      "name": "Bestcycling"
     },
     {
-      id: 2, name: "Bestwalking"
+      "id": 2,
+      "name": "Bestwalking"
     },
     {
-      id: 11, name: "Bestbalance"
+      "id": 11,
+      "name": "Bestbalance"
     },
     {
-      id: 41, name: "Besttraining"
+      "id": 41,
+      "name": "Besttraining"
     },
     {
-      id: 31, name: "Bestrunning"
+      "id": 31,
+      "name": "Bestrunning"
     },
     {
-      id: 21, name: "Bestmind"
+      "id": 21,
+      "name": "Bestmind"
     }
   ],
-
-  instructors: [
-    { id: 1, name: "Juan Carlos"
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Juan Carlos"
     },
-    { id: 2, name: "Jose Miguel"
+    {
+      "id": 2,
+      "name": "Jose Miguel"
     },
-    { id: 3, name: "Antonio"
+    {
+      "id": 3,
+      "name": "Antonio"
     },
-    { id: 4, name: "Victoria"
-    }
-    { id: 5, name: "Juanito"
+    {
+      "id": 4,
+      "name": "Victoria"
+    },
+    {
+      "id": 5,
+      "name": "Juanito"
     }
   ],
-
-  training_classes: [
+  "training_classes": [
     {
-      category_id: 4,
-      name: "BT144 / Fuerza con plus",
-      instructor_id: 3,
-      level: 2,
-      duration: 1854
+      "category_id": 4,
+      "name": "BT144 / Fuerza con plus",
+      "instructor_id": 3,
+      "level": 2,
+      "duration": 1854
     },
     {
-      category_id: 41,
-      name: "BT113 / Vaporizador de calorías",
-      instructor_id: 3,
-      level: 3,
-      duration: 2870
+      "category_id": 41,
+      "name": "BT113 / Vaporizador de calorías",
+      "instructor_id": 3,
+      "level": 3,
+      "duration": 2870
     },
     {
-      category_id: 31,
-      name: "BR12 / Full series.",
-      instructor_id: 5,
-      level: 3,
-      duration: 2570
+      "category_id": 31,
+      "name": "BR12 / Full series.",
+      "instructor_id": 5,
+      "level": 3,
+      "duration": 2570
     },
     {
-      category_id: 11,
-      name: "BB37 / Básico y sin dolor",
-      instructor_id: 4,
-      level: 1,
-      duration: 2299
+      "category_id": 11,
+      "name": "BB37 / Básico y sin dolor",
+      "instructor_id": 4,
+      "level": 1,
+      "duration": 2299
     },
     {
-      category_id: 1,
-      name: "BC39 / ¿Versión nivel 2 o versión nivel 1?",
-      instructor_id: 1,
-      level: 2,
-      duration: 2975
+      "category_id": 1,
+      "name": "BC39 / ¿Versión nivel 2 o versión nivel 1?",
+      "instructor_id": 1,
+      "level": 2,
+      "duration": 2975
     },
     {
-      category_id: 2,
-      name: "BW28 / Aquellos tiempos",
-      instructor_id: 5,
-      level: 2,
-      duration: 3308
+      "category_id": 2,
+      "name": "BW28 / Aquellos tiempos",
+      "instructor_id": 5,
+      "level": 2,
+      "duration": 3308
     },
     {
-      category_id: 1,
-      name: "BC88 / Triple escalera de color",
-      instructor_id: 1,
-      level: 3,
-      duration: 3177
+      "category_id": 1,
+      "name": "BC88 / Triple escalera de color",
+      "instructor_id": 1,
+      "level": 3,
+      "duration": 3177
     },
     {
-      category_id: 11,
-      name: "BB50 / Lateralmente hablando",
-      instructor_id: 4,
-      level: 2,
-      duration: 2414
+      "category_id": 11,
+      "name": "BB50 / Lateralmente hablando",
+      "instructor_id": 4,
+      "level": 2,
+      "duration": 2414
     },
     {
-      category_id: 2,
-      name: "BW32 / Viva la vida",
-      instructor_id: 1,
-      level: 3,
-      duration: 3054
+      "category_id": 2,
+      "name": "BW32 / Viva la vida",
+      "instructor_id": 1,
+      "level": 3,
+      "duration": 3054
     },
     {
-      category_id: 41,
-      name: "BT112 / Burpee MAXPRESS",
-      instructor_id: 2,
-      level: 3,
-      duration: 2018
+      "category_id": 41,
+      "name": "BT112 / Burpee MAXPRESS",
+      "instructor_id": 2,
+      "level": 3,
+      "duration": 2018
     }
   ]
 }
