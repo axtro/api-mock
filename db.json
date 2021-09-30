@@ -323,46 +323,6 @@
       "duration": 3508,
       "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/093/m.png?1622210896",
       "published": 1348853520000
-    },
-    {
-      "id": 23,
-      "name": "BW1 - Trabajo duro",
-      "instructor_id": 87752,
-      "category_id": 2,
-      "level": 1,
-      "duration": 2853,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/091/m.png?1622210894",
-      "published": 1348229280000
-    },
-    {
-      "id": 22,
-      "name": "BW1 - ",
-      "instructor_id": 6850,
-      "category_id": 2,
-      "level": 2,
-      "duration": 3056,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/095/m.png?1622803460",
-      "published": 1347705180000
-    },
-    {
-      "id": 21,
-      "name": "BW1 - Félix",
-      "instructor_id": 32461,
-      "category_id": 2,
-      "level": 2,
-      "duration": 3034,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/089/m.png?1622210892",
-      "published": 1347014340000
-    },
-    {
-      "id": 20,
-      "name": "BC5 - ",
-      "instructor_id": 87753,
-      "category_id": 1,
-      "level": 2,
-      "duration": 3089,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/093/m.png?1622386711",
-      "published": 1350908880000
     }
   ]
 }
